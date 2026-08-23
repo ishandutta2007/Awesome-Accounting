@@ -173,20 +173,20 @@
     <g transform="translate(0, 0)">
       <rect width="255" height="32" rx="16" fill="#064e3b" fill-opacity="0.6" stroke="#10b981" stroke-width="1" />
       <circle cx="16" cy="16" r="5" fill="#10b981" />
-      <text x="30" y="21" class="badge-text">CURATED FINANCIAL STACK</text>
+      <text x="430" y="21" class="badge-text">CURATED FINANCIAL STACK</text>
     </g>
 
     <!-- Main Title -->
-    <text x="0" y="85" class="main-title">
+    <text x="400" y="85" class="main-title">
       Awesome <tspan fill="url(#accentGrad1)">Accounting</tspan>
     </text>
 
     <!-- Subtitle -->
-    <text x="0" y="125" class="subtitle">
+    <text x="400" y="125" class="subtitle">
       Top SaaS Platforms &amp; Open-Source Financial Software
     </text>
     
-    <text x="0" y="155" font-family="system-ui, sans-serif" font-size="15" fill="#64748b" font-weight="500">
+    <text x="400" y="155" font-family="system-ui, sans-serif" font-size="15" fill="#ffffff" font-weight="500">
       Bookkeeping • Invoicing • Double-Entry • ERP • Plain-Text Accounting
     </text>
   </g>
