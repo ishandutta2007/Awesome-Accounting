@@ -3,7 +3,7 @@
 Markdown
 Copy
 Copied
-# Top Accounting Ecosystem
+## Top Accounting Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**
 *Focused on Bookkeeping, Invoicing, Financial Reporting, Multi-Currency, Payroll Integration & Small-to-Midsize Business Accounting*
