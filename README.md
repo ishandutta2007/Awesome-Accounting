@@ -1,8 +1,5 @@
 # Awesome-Accounting
 
-Markdown
-Copy
-Copied
 ## Top Accounting Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**
@@ -25,35 +22,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-- **[QuickBooks Online](https://quickbooks.intuit.com/)**  
-  The most widely used cloud accounting platform for small and midsize businesses in the US, with deep tax support, large accountant ecosystem, and extensive third-party integrations.
-
-- **[Xero](https://www.xero.com/)**  
-  Modern cloud accounting software known for unlimited users on all plans, strong multi-currency support, clean interface, and global appeal.
-
-- **[FreshBooks](https://www.freshbooks.com/)**  
-  Invoicing-first accounting platform designed for freelancers and service-based businesses, with excellent time tracking, client management, and payment features.
-
-- **[Wave](https://www.waveapps.com/)**  
-  Free (or low-cost) accounting and invoicing software popular with very small businesses and side hustles, offering core bookkeeping and receipt scanning.
-
-- **[Sage Intacct](https://www.sage.com/en-us/sage-intacct/)**  
-  Cloud financial management platform aimed at mid-market and growing companies needing multi-entity, advanced reporting, and strong controls.
-
-- **[Zoho Books](https://www.zoho.com/books/)**  
-  Affordable, feature-rich accounting software that integrates tightly with the broader Zoho ecosystem (CRM, Inventory, Payroll, etc.).
-
-- **[Oracle NetSuite](https://www.netsuite.com/)**  
-  Full cloud ERP with comprehensive accounting modules for mid-market and enterprise organizations requiring multi-subsidiary and advanced financial management.
-
-- **[Kashoo](https://www.kashoo.com/)**  
-  Simple, straightforward cloud accounting solution focused on ease of use for small businesses.
-
-- **[FreeAgent](https://www.freeagent.com/)**  
-  UK-focused accounting software popular with freelancers, contractors, and small limited companies, with strong tax and Making Tax Digital support.
-
-- **[ZipBooks](https://zipbooks.com/)**  
-  Cloud accounting platform offering invoicing, expense tracking, and financial reporting with a clean interface aimed at small businesses.
+| Platform | Description | Starting Pricing | Free Tier / Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[QuickBooks Online](https://quickbooks.intuit.com/)** | The most widely used cloud accounting platform for small and midsize businesses in the US, with deep tax support, large accountant ecosystem, and extensive third-party integrations. | Starts at **$38/mo** (Simple Start tier; Solopreneur plan starts at $20/mo; introductory promotional rates frequently available) | **30-day free trial** with full access to paid features (credit card required after trial) or **QuickBooks Free** plan (limited to 1 connected bank account, limited monthly invoicing, and basic expense tracking). |
+| **[Xero](https://www.xero.com/)** | Modern cloud accounting software known for unlimited users on all plans, strong multi-currency support, clean interface, and global appeal. | Starts at **$25/mo** (Early plan; $55/mo for Growing, $90/mo for Established) | **30-day free trial** (no credit card required; full access to core features and add-ons; Early plan capped at 20 invoices/quotes & 5 bills/mo; no permanent free tier). |
+| **[FreshBooks](https://www.freshbooks.com/)** | Invoicing-first accounting platform designed for freelancers and service-based businesses, with excellent time tracking, client management, and payment features. | Starts at **$21/mo** (Lite tier; introductory discounts frequently start at $6.30–$10.50/mo for first 3–6 months) | **30-day free trial** (no credit card required; full feature access; Lite plan limited to 5 billable clients; no permanent free tier). |
+| **[Wave](https://www.waveapps.com/)** | Free (or low-cost) accounting and invoicing software popular with very small businesses and side hustles, offering core bookkeeping and receipt scanning. | **$0/mo** (Starter plan); Pro plan starts at **$19/mo** (or $190/yr) | **Free forever** (Starter plan includes unlimited invoicing, estimates, and manual bookkeeping records for up to 2 collaborators; excludes automated bank feeds and OCR receipt scanning). |
+| **[Sage Intacct](https://www.sage.com/en-us/sage-intacct/)** | Cloud financial management platform aimed at mid-market and growing companies needing multi-entity, advanced reporting, and strong controls. | Starts at **~$15,000/yr** (~$1,250/mo base platform; user licenses range from $200–$400/user/mo) | **30-day interactive demo / sandbox test drive** available upon sales consultation (no permanent free tier). |
+| **[Zoho Books](https://www.zoho.com/books/)** | Affordable, feature-rich accounting software that integrates tightly with the broader Zoho ecosystem (CRM, Inventory, Payroll, etc.). | **$0/mo** (Free plan); Standard paid plan starts at **$15/mo** (billed annually) or $20/mo (billed monthly) | **Free forever** for businesses with annual revenue under $50K USD / ₹25L (1 user + 1 accountant, up to 1,000 invoices/yr); **14-day free trial** for paid plans. |
+| **[Oracle NetSuite](https://www.netsuite.com/)** | Full cloud ERP with comprehensive accounting modules for mid-market and enterprise organizations requiring multi-subsidiary and advanced financial management. | Starts at **~$999/mo** base platform fee + **~$99/user/mo** (typically $25,000–$30,000+/yr minimum initial deployment) | **14-day guided sandbox / demo environment** access available through authorized partners/sales (no credit card required; no permanent free tier). |
+| **[Kashoo](https://www.kashoo.com/)** | Simple, straightforward cloud accounting solution focused on ease of use for small businesses. | Starts at **$20–$27/mo** (TrulySmall Accounting) or **$30/mo** ($324/yr for full Kashoo) | **14-day free trial** (no credit card or upfront commitment required; full access to income/expense tracking, invoicing, and bank reconciliation; no permanent free tier). |
+| **[FreeAgent](https://www.freeagent.com/)** | UK-focused accounting software popular with freelancers, contractors, and small limited companies, with strong tax and Making Tax Digital support. | Starts at **$27/mo** (frequently discounted to $13.50/mo for first 6 months; free for NatWest/RBS/Ulster/Mettle banking customers) | **30-day free trial** (no credit card required; all features accessible, with invoice/estimate emailing restricted to 2 addresses during trial; free indefinitely if linked to eligible business account). |
+| **[ZipBooks](https://zipbooks.com/)** | Cloud accounting platform offering invoicing, expense tracking, and financial reporting with a clean interface aimed at small businesses. | **$0/mo** (Starter plan); Smarter paid plan starts at **$15/mo** ($35/mo for Sophisticated) | **Free forever** (Starter plan allows 1 user, 1 connected bank account, unlimited invoices/customers/vendors, and basic reporting; excludes recurring invoices and automated reminders). |
 
 ## Open-Source GitHub Projects
 
