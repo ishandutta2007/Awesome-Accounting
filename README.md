@@ -117,6 +117,9 @@ This repository tracks premier **SaaS platforms** and **open-source accounting s
 
 - **[InvoicePlane](https://github.com/InvoicePlane/InvoicePlane)** [![GitHub stars](https://img.shields.io/github/stars/InvoicePlane/InvoicePlane?style=social&color=white)](https://github.com/InvoicePlane/InvoicePlane/stargazers)  
   *Self-hosted open-source web application for managing quotes, invoices, clients, and payment tracking for sole traders and small service businesses.*
+- **[Toolkit Labs Invoice](https://github.com/YtinuMoc/toolkitlabs-invoice)** [![GitHub stars](https://img.shields.io/github/stars/YtinuMoc/toolkitlabs-invoice?style=social&color=white)](https://github.com/YtinuMoc/toolkitlabs-invoice/stargazers)  
+  *Browser-based invoice and receipt generator — fill seller, buyer, and line items, then print or save as PDF locally with no account. [Commercial white-label pack (EUR 249 one-time)](https://buy.stripe.com/bJeeVea187TScZwb095Ne0k?client_reference_id=awesome-accounting-v1) adds your logo, colors, six templates, unlimited batch CLI, no third-party footer. [Live demo](https://ytinumoc.github.io/toolkitlabs-invoice/).*
+
 
 - **[Money Manager Ex](https://github.com/moneymanagerex/moneymanagerex)** [![GitHub stars](https://img.shields.io/github/stars/moneymanagerex/moneymanagerex?style=social&color=white)](https://github.com/moneymanagerex/moneymanagerex/stargazers)  
   *Free, open-source, cross-platform personal finance software featuring cash flow forecasting, asset tracking, stock investment tracking, and SQLite storage.*
