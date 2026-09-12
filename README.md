@@ -123,6 +123,8 @@ This repository tracks premier **SaaS platforms** and **open-source accounting s
 
 - **[LedgerSMB](https://github.com/ledgersmb/LedgerSMB)** [![GitHub stars](https://img.shields.io/github/stars/ledgersmb/LedgerSMB?style=social&color=white)](https://github.com/ledgersmb/LedgerSMB/stargazers)  
   *PostgreSQL-backed double-entry accounting and ERP web system delivering inventory management, order tracking, quotation generation, and multi-currency financials.*
+- **[OpenBooks](https://github.com/braedonsaunders/openbooks)** [![GitHub stars](https://img.shields.io/github/stars/braedonsaunders/openbooks?style=social&color=white)](https://github.com/braedonsaunders/openbooks/stargazers)  
+  *Open-source accounting-first ERP with a PostgreSQL-enforced double-entry ledger, multi-entity support, job costing, invoices, bills, inventory, and approvals.*
 
 ---
 
